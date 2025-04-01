@@ -1,24 +1,32 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
         nums.sort()
-        for i, a in enumerate(nums):
-            if i > 0 and a == nums[i-1]:
-                continue 
-            
-            l, r = i + 1, len(nums) - 1
-            while l < r:
-                sum = a + nums[l] + nums[r]
-                if sum > 0:
-                    r -= 1
-                elif sum < 0:
-                    l += 1
+        res = []
+        n = len(nums)
+
+        for i in range(n):
+            if nums[i] > 0:
+                break
+            elif i > 0 and nums[i] == nums[i-1]:
+                continue
+
+            low = i+1
+            high = n - 1
+
+            while low < high:
+                summ = nums[i] + nums[low] + nums[high]
+                if summ == 0:
+                    res.append([nums[i], nums[low], nums[high]])
+                    # Now what if we have the same low value for the i+1, i+2 ... so just skip those since all these are same tuples.
+                    low += 1
+                    high -= 1
+                    while low < high and nums[low] == nums[low-1]:
+                        low += 1
+                    while low < high and nums[high] == nums[high+1]:
+                        high -= 1
+                elif summ < 0:
+                    low += 1
                 else:
-                    res.append([a, nums[l], nums[r]])
-                    # Now what if we have the same nums[l] value for the l+1, l+2 ... so just skip those since all these are same tuples.
-                    l += 1
-                    while nums[l] == nums[l-1] and l < r:
-                        l += 1
-        
+                    high -= 1
+                    
         return res
-        
