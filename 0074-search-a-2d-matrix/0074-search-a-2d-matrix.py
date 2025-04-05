@@ -2,19 +2,21 @@ from typing import List
 
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        def binary_search(low, high, row):
-            if low > high:
-                return False
-            mid = (low + high) // 2
-            if matrix[row][mid] == target:
-                return True
-            elif matrix[row][mid] > target:
-                return binary_search(low, mid - 1, row)
-            else:
-                return binary_search(mid + 1, high, row)
+        if not matrix or not matrix[0]:
+            return False
 
-        for row in range(len(matrix)):
-            if matrix[row][0] <= target <= matrix[row][-1]:
-                if binary_search(0, len(matrix[row]) - 1, row):
-                    return True
+        rows, cols = len(matrix), len(matrix[0])
+        left, right = 0, rows * cols - 1
+
+        while left <= right:
+            mid = (left + right) // 2
+            mid_value = matrix[mid // cols][mid % cols]
+
+            if mid_value == target:
+                return True
+            elif mid_value < target:
+                left = mid + 1
+            else:
+                right = mid - 1
+
         return False
