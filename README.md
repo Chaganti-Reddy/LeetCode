@@ -63,6 +63,7 @@
 | [0239-sliding-window-maximum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0883-car-fleet) |
 ## Divide and Conquer
 |  |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
