@@ -174,4 +174,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
