@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0567-permutation-in-string) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0883-car-fleet) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0792-binary-search](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | [0792-binary-search](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
