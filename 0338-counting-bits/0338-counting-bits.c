@@ -3,23 +3,14 @@
  */
 #include <stdlib.h>
 
-int setbits(int); 
 
-int* countBits(int n, int* returnSize) {
-    *returnSize = n + 1;  
-    int* ans = (int*)malloc((n+1) * sizeof(int));
-    for(int i = 0; i <= n; i++){
-        ans[i] = setbits(i); 
+int* countBits(int n, int* returnSize){
+    *returnSize = n + 1;
+    int* ans = (int*)malloc((n + 1) * sizeof(int));
+    ans[0] = 0;
+    for(int i = 1; i <= n; i++){
+        ans[i] = ans[i >> 1] + (i & 1);
     }
-    return ans; 
+    return ans;
 }
 
-
-int setbits(int num){
-    int count = 0;
-    while (num) {
-        if (num & 1) count++;
-        num = num >> 1;
-    }
-    return count;
-}
