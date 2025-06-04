@@ -15,6 +15,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0567-permutation-in-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,4 +268,5 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
