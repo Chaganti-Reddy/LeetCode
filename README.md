@@ -99,6 +99,7 @@
 | [0797-rabbits-in-forest](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0883-car-fleet](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -174,6 +175,7 @@
 | [0042-trapping-rain-water](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0338-counting-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
