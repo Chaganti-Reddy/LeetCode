@@ -165,6 +165,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0011-container-with-most-water) |
 | [0797-rabbits-in-forest](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1448-maximum-69-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1448-maximum-69-number) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
@@ -225,6 +226,7 @@
 | [0268-missing-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0797-rabbits-in-forest](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1448-maximum-69-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1448-maximum-69-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Backtracking
