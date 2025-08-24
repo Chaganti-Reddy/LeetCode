@@ -103,6 +103,7 @@
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
@@ -142,6 +143,7 @@
 | [0036-valid-sudoku](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Union Find
 |  |
 | ------- |
