@@ -101,6 +101,7 @@
 | [0907-koko-eating-bananas](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -179,6 +180,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0239-sliding-window-maximum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0567-permutation-in-string) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
 | ------- |
