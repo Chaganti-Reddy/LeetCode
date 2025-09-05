@@ -276,6 +276,7 @@
 | [0338-counting-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
@@ -302,4 +304,8 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
