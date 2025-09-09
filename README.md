@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0242-valid-anagram) |
@@ -83,6 +84,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -258,6 +260,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0047-permutations-ii) |
 | [0401-binary-watch](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
