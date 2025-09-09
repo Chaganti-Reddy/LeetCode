@@ -258,6 +258,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0022-generate-parentheses) |
+| [0401-binary-watch](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 ## Linked List
@@ -291,6 +292,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0401-binary-watch](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
