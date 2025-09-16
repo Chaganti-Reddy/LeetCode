@@ -115,6 +115,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -210,6 +211,7 @@
 | [0155-min-stack](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0883-car-fleet) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Monotonic Stack
 |  |
@@ -254,6 +256,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -339,4 +342,8 @@
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
