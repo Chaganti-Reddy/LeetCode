@@ -124,6 +124,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -276,6 +277,7 @@
 | [0797-rabbits-in-forest](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1448-maximum-69-number) |
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
