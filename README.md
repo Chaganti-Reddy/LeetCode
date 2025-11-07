@@ -106,6 +106,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -179,6 +180,7 @@
 | [0036-valid-sudoku](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -344,6 +347,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
 ## Combinatorics
 |  |
@@ -388,4 +392,8 @@
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
