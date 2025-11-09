@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0567-permutation-in-string) |
+| [0875-longest-mountain-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -121,6 +122,7 @@
 | [0739-daily-temperatures](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0875-longest-mountain-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0883-car-fleet](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -225,6 +227,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0875-longest-mountain-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -359,6 +362,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
