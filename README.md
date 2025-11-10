@@ -102,6 +102,7 @@
 | [0042-trapping-rain-water](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -232,6 +234,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0338-counting-bits) |
