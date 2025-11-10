@@ -85,6 +85,7 @@
 | [0883-car-fleet](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0883-car-fleet) |
 | [1018-largest-perimeter-triangle](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1306-minimum-absolute-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -133,6 +134,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1306-minimum-absolute-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
