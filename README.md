@@ -112,6 +112,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -179,6 +180,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -207,6 +209,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0792-binary-search) |
@@ -262,6 +265,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
