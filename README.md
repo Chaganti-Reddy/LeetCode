@@ -120,6 +120,7 @@
 | [0239-sliding-window-maximum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -290,6 +292,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1023-time-based-key-value-store](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
