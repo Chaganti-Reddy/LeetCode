@@ -131,6 +131,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0797-rabbits-in-forest) |
