@@ -150,6 +150,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -291,6 +292,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
@@ -412,6 +414,7 @@
 | [0054-spiral-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1642-water-bottles) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Brainteaser
