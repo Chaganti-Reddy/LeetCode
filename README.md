@@ -405,6 +405,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -457,14 +458,17 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
