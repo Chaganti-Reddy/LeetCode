@@ -67,6 +67,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -143,6 +144,7 @@
 | [0907-koko-eating-bananas](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
