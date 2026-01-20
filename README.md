@@ -166,6 +166,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -406,6 +407,7 @@
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
