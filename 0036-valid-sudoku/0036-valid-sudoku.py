@@ -1,44 +1,20 @@
-from typing import List
-
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        # Check rows
-        for i in range(len(board)):
-            count = 0
-            temp = set()
-            for j in range(len(board[i])):
-                if board[i][j] != ".":
-                    count += 1
-                    temp.add(board[i][j])
-            
-            if count != len(temp):
-                return False
+        cols = defaultdict(set)
+        rows = defaultdict(set)
+        squares = defaultdict(set)
 
-        # Check columns
-        for i in range(len(board)):
-            count = 0
-            temp = set()
-            for j in range(len(board[i])):
-                if board[j][i] != ".":
-                    count += 1
-                    temp.add(board[j][i])
-            
-            if count != len(temp):
-                return False
-        
-        # Check 3x3 sub-boxes
-        for i in range(0, 9, 3):
-            for j in range(0, 9, 3):
-                count = 0
-                temp = set()
-                for k in range(3):
-                    for l in range(3):
-                        num = board[i + k][j + l]
-                        if num != ".":
-                            count += 1
-                            temp.add(num)
-                
-                if count != len(temp):
+        for r in range(9):
+            for c in range(9):
+                if board[r][c] == ".":
+                    continue
+                if ( board[r][c] in rows[r]
+                    or board[r][c] in cols[c]
+                    or board[r][c] in squares[(r // 3, c // 3)]):
                     return False
-        
+
+                cols[c].add(board[r][c])
+                rows[r].add(board[r][c])
+                squares[(r // 3, c // 3)].add(board[r][c])
+
         return True
