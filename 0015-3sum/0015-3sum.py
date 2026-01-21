@@ -17,7 +17,6 @@ class Solution:
                 summ = nums[i] + nums[low] + nums[high]
                 if summ == 0:
                     res.append([nums[i], nums[low], nums[high]])
-                    # Now what if we have the same low value for the i+1, i+2 ... so just skip those since all these are same tuples.
                     low += 1
                     high -= 1
                     while low < high and nums[low] == nums[low-1]:
