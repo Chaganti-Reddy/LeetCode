@@ -75,6 +75,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -171,6 +172,7 @@
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3819-count-covered-buildings) |
@@ -193,6 +195,7 @@
 | [0239-sliding-window-maximum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
@@ -383,6 +386,7 @@
 | [0206-reverse-linked-list](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
@@ -418,6 +422,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0146-lru-cache) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
@@ -451,6 +456,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Brainteaser
 |  |
@@ -510,5 +516,6 @@
 ## Ordered Set
 |  |
 | ------- |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
