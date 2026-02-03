@@ -177,6 +177,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3819-count-covered-buildings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3885-count-special-triplets) |
+| [3952-trionic-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3952-trionic-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
