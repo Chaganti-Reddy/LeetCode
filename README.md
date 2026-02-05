@@ -170,6 +170,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3651-transformed-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3651-transformed-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -457,6 +458,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3651-transformed-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3651-transformed-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Brainteaser
