@@ -528,4 +528,8 @@
 | ------- |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
