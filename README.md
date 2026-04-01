@@ -100,6 +100,7 @@
 | [1306-minimum-absolute-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
@@ -172,6 +173,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -307,6 +309,7 @@
 | [0883-car-fleet](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0883-car-fleet) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -470,6 +473,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
 | [3651-transformed-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3651-transformed-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
