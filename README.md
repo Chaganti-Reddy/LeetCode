@@ -41,6 +41,7 @@
 | [1023-time-based-key-value-store](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -396,6 +397,7 @@
 | [0526-beautiful-arrangement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0800-letter-case-permutation](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Linked List
 |  |
 | ------- |
