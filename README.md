@@ -161,6 +161,7 @@
 | [1071-binary-prefix-divisible-by-5](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1306-minimum-absolute-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1311-largest-magic-square](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1311-largest-magic-square) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -232,6 +233,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1311-largest-magic-square](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1311-largest-magic-square) |
 | [1603-running-sum-of-1d-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -245,6 +247,7 @@
 | [0200-number-of-islands](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1311-largest-magic-square](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1311-largest-magic-square) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
