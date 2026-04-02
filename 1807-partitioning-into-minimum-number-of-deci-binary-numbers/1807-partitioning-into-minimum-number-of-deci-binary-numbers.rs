@@ -1,9 +1,8 @@
 impl Solution {
     pub fn min_partitions(n: String) -> i32 {
-        let mut m: u32 = 0;
-        for c in n.chars() {    
-            m = m.max(c.to_digit(10).unwrap());
-        }
-        m as i32
+        n.bytes()
+            .max()
+            .map(|b| (b - b'0') as i32)
+            .unwrap_or(0)
     }
 }
