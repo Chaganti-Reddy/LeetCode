@@ -107,6 +107,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Array
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [3885-count-special-triplets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3885-count-special-triplets) |
 | [3952-trionic-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [0907-koko-eating-bananas](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -305,6 +308,7 @@
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
 | ------- |
