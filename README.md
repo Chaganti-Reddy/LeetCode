@@ -47,6 +47,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3770-lexicographically-smallest-generated-string) |
@@ -179,6 +180,7 @@
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
