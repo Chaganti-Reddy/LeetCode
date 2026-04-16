@@ -81,6 +81,7 @@
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3750-closest-equal-element-queries](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -192,6 +193,7 @@
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3750-closest-equal-element-queries](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3750-closest-equal-element-queries) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -281,6 +283,7 @@
 | [0907-koko-eating-bananas](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3750-closest-equal-element-queries](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3750-closest-equal-element-queries) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
