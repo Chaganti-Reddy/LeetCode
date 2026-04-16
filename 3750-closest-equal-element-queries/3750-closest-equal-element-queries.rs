@@ -1,47 +1,20 @@
 use std::collections::HashMap;
 
 impl Solution {
-    pub fn solve_queries(nums: Vec<i32>, queries: Vec<i32>) -> Vec<i32> {
+    pub fn solve_queries(mut nums: Vec<i32>,mut queries: Vec<i32>) -> Vec<i32> {
         let n = nums.len();
-        let mut next = vec![i32::MAX; n];
-        let mut prev = vec![i32::MAX; n];
-
-        let mut freq = HashMap::new();
-        for &num in &nums {
-            *freq.entry(num).or_insert(0) += 1;
-        }
-
-        let mut last_seen = HashMap::new();
-
-        for i in 0..2 * n {
-            let idx = i % n;
-            if let Some(&last) = last_seen.get(&nums[idx]) {
-                next[last % n] = (i - last) as i32;
+        let mut num_indices = HashMap::<i32,(usize,usize)>::new();
+        for i in 0..n{
+            if let Some((first,prev)) = num_indices.get_mut(&nums[i]){
+                nums[i] = (i-*prev).min(n-i+*first) as i32;
+                nums[*first] = (nums[*first] as u32).min((*first+n-i) as u32) as i32;
+                nums[*prev] = (nums[*prev] as u32).min((i-*prev) as u32) as i32;
+                *prev = i;
+            }else{
+                num_indices.insert(nums[i],(i,i));
+                nums[i] = -1;
             }
-            last_seen.insert(nums[idx], i);
         }
-
-        last_seen.clear();
-
-        for i in (0..2 * n).rev() {
-            let idx = i % n;
-            if let Some(&last) = last_seen.get(&nums[idx]) {
-                prev[last % n] = (last - i) as i32;
-            }
-            last_seen.insert(nums[idx], i);
-        }
-
-        queries
-            .into_iter()
-            .map(|q| {
-                let i = q as usize;
-
-                if freq[&nums[i]] == 1 {
-                    return -1;
-                }
-
-                next[i].min(prev[i])
-            })
-            .collect()
+        queries.into_iter().map(|q| nums[q as usize] ).collect::<Vec<_>>()
     }
 }
