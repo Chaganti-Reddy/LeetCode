@@ -89,6 +89,7 @@
 | [3819-count-covered-buildings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3885-count-special-triplets) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [3958-minimum-removals-to-balance-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -395,6 +397,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Backtracking
 |  |
 | ------- |
