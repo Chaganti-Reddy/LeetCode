@@ -400,6 +400,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4168-mirror-distance-of-an-integer](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Backtracking
 |  |
 | ------- |
