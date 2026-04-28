@@ -107,6 +107,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -179,6 +180,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -265,6 +267,7 @@
 | [0498-diagonal-traverse](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1311-largest-magic-square](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1311-largest-magic-square) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -396,6 +399,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1642-water-bottles) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
