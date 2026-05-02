@@ -318,6 +318,7 @@
 | [0338-counting-bits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0396-rotate-function) |
 | [0526-beautiful-arrangement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0804-rotated-digits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0804-rotated-digits) |
 | [0875-longest-mountain-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
@@ -393,6 +394,7 @@
 | [0371-sum-of-two-integers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0396-rotate-function) |
 | [0797-rabbits-in-forest](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0804-rotated-digits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0804-rotated-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
