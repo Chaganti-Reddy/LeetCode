@@ -190,6 +190,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -519,6 +520,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
 | [3651-transformed-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3651-transformed-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
