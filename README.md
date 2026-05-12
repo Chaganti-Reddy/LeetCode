@@ -108,6 +108,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
@@ -181,6 +182,7 @@
 | [1580-shuffle-the-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1972-rotating-the-box](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1972-rotating-the-box) |
 | [2058-concatenation-of-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -305,6 +307,7 @@
 | [0797-rabbits-in-forest](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1448-maximum-69-number) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
