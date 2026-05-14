@@ -82,6 +82,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2892-check-if-array-is-good](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3750-closest-equal-element-queries](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -112,6 +113,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
+| [2892-check-if-array-is-good](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
@@ -195,6 +197,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
+| [2892-check-if-array-is-good](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
