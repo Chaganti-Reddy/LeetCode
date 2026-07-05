@@ -33,6 +33,7 @@
 | [0020-valid-parentheses](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0125-valid-palindrome) |
@@ -404,6 +405,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0268-missing-number) |
@@ -526,6 +528,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1642-water-bottles) |
