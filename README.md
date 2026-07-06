@@ -346,6 +346,7 @@
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
@@ -433,6 +434,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Backtracking
