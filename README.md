@@ -345,6 +345,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -431,6 +432,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Backtracking
@@ -527,6 +529,7 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
