@@ -111,6 +111,7 @@
 | [0883-car-fleet](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0883-car-fleet) |
 | [1018-largest-perimeter-triangle](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1222-remove-covered-intervals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -180,6 +181,7 @@
 | [1038-number-of-squareful-arrays](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1038-number-of-squareful-arrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1222-remove-covered-intervals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1311-largest-magic-square) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
