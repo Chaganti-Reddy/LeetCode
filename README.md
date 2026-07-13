@@ -529,6 +529,7 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1212-sequential-digits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1212-sequential-digits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
