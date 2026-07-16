@@ -1,17 +1,22 @@
+import math
+
 class Solution:
     def gcdSum(self, nums: list[int]) -> int:
-        n = len(nums)
-        mx_i = 0
-        prefixGcd = []
+        prefix = []
+        mx = 0
 
-        for i in range(n):
-            mx_i = max(mx_i, nums[i])
-            prefixGcd.append(math.gcd(nums[i], mx_i))
+        for x in nums:
+            mx = max(mx, x)
+            prefix.append(math.gcd(x, mx))
 
-        prefixGcd.sort()
+        prefix.sort()
+
         ans = 0
+        l, r = 0, len(prefix) - 1
 
-        for i in range(n//2):
-            ans += math.gcd(prefixGcd[i], prefixGcd[n - i -1])
+        while l < r:
+            ans += math.gcd(prefix[l], prefix[r])
+            l += 1
+            r -= 1
 
         return ans
