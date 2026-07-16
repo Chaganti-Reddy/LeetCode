@@ -23,6 +23,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [3819-count-covered-buildings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -438,6 +441,7 @@
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -550,6 +554,7 @@
 | [3651-transformed-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3651-transformed-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -563,6 +568,7 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
