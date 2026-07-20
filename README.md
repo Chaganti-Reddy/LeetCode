@@ -187,6 +187,7 @@
 | [1222-remove-covered-intervals](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1311-largest-magic-square) |
+| [1386-shift-2d-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -286,6 +287,7 @@
 | [0498-diagonal-traverse](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1311-largest-magic-square](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1311-largest-magic-square) |
+| [1386-shift-2d-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1972-rotating-the-box](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -544,6 +546,7 @@
 | [0043-multiply-strings](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1386-shift-2d-grid](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
