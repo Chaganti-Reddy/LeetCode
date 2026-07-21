@@ -59,6 +59,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3770-lexicographically-smallest-generated-string) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -539,6 +540,7 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
