@@ -439,6 +439,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
@@ -539,6 +540,7 @@
 | [1212-sequential-digits](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1212-sequential-digits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Chaganti-Reddy/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
