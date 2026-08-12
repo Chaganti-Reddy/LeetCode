@@ -90,6 +90,7 @@
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2892-check-if-array-is-good](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3750-closest-equal-element-queries](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3750-closest-equal-element-queries) |
@@ -211,6 +212,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2846-robot-collisions) |
 | [2892-check-if-array-is-good](https://github.com/Chaganti-Reddy/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -393,6 +395,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Chaganti-Reddy/LeetCode/tree/master/0567-permutation-in-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chaganti-Reddy/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Chaganti-Reddy/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Queue
 |  |
